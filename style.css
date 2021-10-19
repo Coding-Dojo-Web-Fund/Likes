@@ -1,0 +1,28 @@
+.main{
+    border-style: solid;
+    background-color: beige;
+    color: black;
+    padding: 1%;
+}
+
+.header{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+.body{
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline-block;
+    justify-content: space-between;
+}
+
+.likes{
+    margin-left: 60%;
+}
